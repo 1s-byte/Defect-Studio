@@ -1,0 +1,6 @@
+{
+  "name": "QC Admin System",
+  "description": "Manufacturing quality control backend and admin dashboard for QC Executives",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
